@@ -1,5 +1,5 @@
 ## Google-Product-Exploration-Android
-# Ignasius Ferry Priguna - 16520243
+#### Ignasius Ferry Priguna - 16520243
 
 Android is an operating system that is able to run on various kinds of devices, especially mobile devices. Android first started out as an operating system for smartphones only. The first Android smartphone is the HTC Dream, also known as T-Mobile G1, launched on 23 September, 2008. Now, Android is applied in several other places such as tablets, TVs, smartwatches, laptops and cars. The main hardware platform for Android is ARM, with x86 and x86-64 architectures also officially supported in later versions of Android. The latest version of Android, Android 11, is released on September 8, 2020.
 
